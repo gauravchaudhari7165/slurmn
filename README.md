@@ -1,1 +1,1 @@
-# slurmn
+# slurm
